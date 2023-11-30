@@ -1,0 +1,37 @@
+.footer {
+  background-color: rgb(3, 3, 20);
+  color: white;
+  padding: 20px;
+  text-align: center;
+  display: flex;
+  justify-content: space-between;
+}
+.footer-links {
+  text-align: left;
+  margin: 22px;
+}
+
+.footer a {
+  color: #fff;
+  text-decoration: none;
+  margin: 0 10px;
+}
+.footer-links a:hover {
+  color: #00bcd4;
+}
+
+.social-icons {
+  margin-top: 20px;
+  text-align: right;
+}
+
+.social-icons a {
+  color: #fff;
+  font-size: 24px;
+  margin: 0 10px;
+  text-decoration: none;
+}
+
+.social-icons a:hover {
+  color: #00bcd4;
+}
